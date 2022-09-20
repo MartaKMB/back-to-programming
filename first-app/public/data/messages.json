@@ -1,0 +1,30 @@
+{
+    "info": "first application",
+    "messages": [
+        {
+            "id": 1,
+            "title": "Wiadomość 1",
+            "body": "Zawartość wiadomości nummer 1"
+        },
+        {
+            "id": 2,
+            "title": "Wiadomość 2",
+            "body": "Zawartość wiadomości nummer 2"
+        },
+        {
+            "id": 3,
+            "title": "Wiadomość 3",
+            "body": "Zawartość wiadomości nummer 3"
+        },
+        {
+            "id": 4,
+            "title": "Wiadomość 4",
+            "body": "Zawartość wiadomości nummer 4"
+        },
+        {
+            "id": 5,
+            "title": "Wiadomość 5",
+            "body": "Zawartość wiadomości nummer 5"
+        }
+    ]
+}

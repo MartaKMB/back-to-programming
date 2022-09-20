@@ -1,0 +1,8 @@
+.users-list {
+    text-align: center;
+}
+
+.users-list li {
+    border-top: 2px solid grey;
+    padding-top: 20px;
+}

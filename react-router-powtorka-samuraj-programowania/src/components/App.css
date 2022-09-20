@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+nav {
+  background-color: black;
+}
+
+ul {
+  display: flex;
+  list-style-type: none;
+}
+
+li {
+  flex-grow: 1;
+}
+
+a {
+  display: block;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  border-bottom: 8px solid black;
+}
+
+a:hover {
+  color: yellow;
+  border-bottom-color: yellow;
+}
+
+.active {
+  border-bottom-color: yellow;
+}
+
+section {
+  padding-top: 30px;
+  text-align: center;
+}
